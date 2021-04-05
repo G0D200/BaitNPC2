@@ -1,0 +1,8 @@
+Couldn't find a bait npc mod so i made this one. Bait NPC adds an NPC called the Bait Merchant, which sells every type of bait. I'm too lazy to make a texture for it right now so I took the merchant texture. The bait is sorted by bait power.
+
+The NPC should move in right away.
+
+Patch 1.2.2: Bug fixes.
+Patch 1.2.1: Fixed a cursed texture on the merchant.
+Patch 1.2: Changed name from Bait NPC to Bait Merchant and added a texture.
+Patch 1.1: Fixed NPC spawning issue.

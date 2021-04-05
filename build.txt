@@ -1,0 +1,4 @@
+displayName = Bait NPC 2
+author = G0D
+version = 1.2.2
+includeSource = true
