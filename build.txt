@@ -1,4 +1,4 @@
 displayName = Bait NPC 2
 author = G0D
-version = 1.2.3
+version = 1.2.3.1
 includeSource = true
