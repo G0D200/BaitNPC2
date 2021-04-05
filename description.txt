@@ -2,6 +2,7 @@ Couldn't find a bait npc mod so i made this one. Bait NPC adds an NPC called the
 
 The NPC should move in right away.
 
+Patch 1.2.3.1: Made the description better.
 Patch 1.2.3: Fixed a problem with the icon.
 Patch 1.2.2: Bug fixes.
 Patch 1.2.1: Fixed a cursed texture on the merchant.
